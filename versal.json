@@ -1,9 +1,15 @@
 {
+  "version": 2,
   "builds": [
-    { "src": "manage.py", "use": "@vercel/python" },
-    { "src": "**/*.html", "use": "@vercel/static" }
+    {
+      "src": "qr_code_generator/wsgi.py",
+      "use": "@vercel/python"
+    }
   ],
   "routes": [
-    { "src": "/(.*)", "dest": "manage.py" }
+    {
+      "src": "/(.*)",
+      "dest": "qr_code_generator/wsgi.py"
+    }
   ]
 }
