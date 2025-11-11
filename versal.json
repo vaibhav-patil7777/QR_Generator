@@ -1,15 +1,2 @@
-{
-  "version": 2,
-  "builds": [
-    {
-      "src": "qr_code_generator/wsgi.py",
-      "use": "@vercel/python"
-    }
-  ],
-  "routes": [
-    {
-      "src": "/(.*)",
-      "dest": "qr_code_generator/wsgi.py"
-    }
-  ]
-}
+
+
