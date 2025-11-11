@@ -45,12 +45,3 @@ Generate QR in multiple formats (PNG, SVG, PDF)
 
 Add dark mode UI
 
-🧠 Author
-Gorke saikumar
-gorkesaikumar@gmail.com
-Sai Kumar
-💻 Full Stack Developer
-📧 [Your Email or Portfolio Link]
-=======
-# QR_Generator
->>>>>>> 72eadd452a0cf60c5c6d1194b6b1383955114a0e
