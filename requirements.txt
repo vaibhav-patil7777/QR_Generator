@@ -1,6 +1,7 @@
 django
 gunicorn
 whitenoise
+pillow
 
 asgiref==3.10.0
 colorama==0.4.6
@@ -8,5 +9,6 @@ Django==5.2.7
 qrcode==8.2
 sqlparse==0.5.3
 tzdata==2025.2
+
 
 
