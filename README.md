@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 🧠 QR Code Generator using Django
 
 A simple and elegant QR Code Generator web application built with Django and Bootstrap.
@@ -50,3 +51,6 @@ gorkesaikumar@gmail.com
 Sai Kumar
 💻 Full Stack Developer
 📧 [Your Email or Portfolio Link]
+=======
+# QR_Generator
+>>>>>>> 72eadd452a0cf60c5c6d1194b6b1383955114a0e
